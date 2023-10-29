@@ -17,4 +17,6 @@ To run the application type the following command:
 
 `./validate <the path to your CDSN formatted grammar file>`
 
+Note, your grammar file will be reformatted using the canonical format for CDSN.
+
 <H5 align="center"> Copyright © 2009 - 2023  Crater Dog Technologies™. All rights reserved. </H5>
