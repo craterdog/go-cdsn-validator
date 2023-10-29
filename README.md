@@ -14,6 +14,7 @@ To download and build the application do the following from the command line:
 1. `go build`
 
 To run the application type the following command:
+
 `./validate <the path to your CDSN formatted grammar file>`
 
 <H5 align="center"> Copyright © 2009 - 2023  Crater Dog Technologies™. All rights reserved. </H5>
