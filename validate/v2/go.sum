@@ -1,7 +1,7 @@
-github.com/craterdog/go-cdsn-validation/v2 v2.1.0 h1:zaAPigdjQ79hs8Bi9Ym3PF53MAil5TYwu/umhElb/gQ=
-github.com/craterdog/go-cdsn-validation/v2 v2.1.0/go.mod h1:kQO04gfuQLVDeSfg4oMJfqeec/YVbp4A/rsTEd7SFAw=
-github.com/craterdog/go-collection-framework/v2 v2.2.0 h1:isaZZaP1tZPATN37jxWCQgeZMJy+9SyNE0V3AwB8RIc=
-github.com/craterdog/go-collection-framework/v2 v2.2.0/go.mod h1:Z0PKnLN9uWQV2fEaRTJOPrh9D+tQ73UilGMZp/ItRZs=
+github.com/craterdog/go-cdsn-validation/v3 v3.0.0 h1:NHdfb8HCJ84uF2bvfZN9Ra8CHN7oiv/y6/iqkx8o18E=
+github.com/craterdog/go-cdsn-validation/v3 v3.0.0/go.mod h1:vl31L0YOX1gXefjLsc07NTu57/WxKoxwi/AnTQC8hD4=
+github.com/craterdog/go-collection-framework/v3 v3.2.1 h1:d2QR2x8dJKgD136BHqRk+9bAbLVUr5pulbEkoLZREWg=
+github.com/craterdog/go-collection-framework/v3 v3.2.1/go.mod h1:J7ivtumD14u6Z98yUKajJhnLyQepY2xtHPIP+rtcz7E=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
